@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jader Dias projects</title>
+    <link>http://jaderdias.github.io/posts/</link>
+    <description>Recent content in Posts on Jader Dias projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jan 2022 13:42:40 +0100</lastBuildDate><atom:link href="http://jaderdias.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to download Android apps source and analyse them</title>
+      <link>http://jaderdias.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 25 Jan 2022 13:42:40 +0100</pubDate>
+      
+      <guid>http://jaderdias.github.io/posts/my-first-post/</guid>
+      <description>Test</description>
+    </item>
+    
+  </channel>
+</rss>

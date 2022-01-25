@@ -1,4 +1,5 @@
 baseURL = 'http://jaderdias.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Jader Dias projects'
 theme = "ananke"
+publishDir = "docs"
