@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/jdias/git_tree/jaderdias.github.io",
+	"sourceRoot": "/home/jader/git_tree/jaderdias.github.io",
 	"sources": [
 		"stdin"
 	],
