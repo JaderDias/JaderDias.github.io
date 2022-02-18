@@ -6,13 +6,23 @@
     <description>Recent content in Posts on Jader Dias projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jan 2022 13:42:40 +0100</lastBuildDate><atom:link href="http://jaderdias.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Feb 2022 20:00:00 +0100</lastBuildDate><atom:link href="http://jaderdias.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Protect your privacy and security with private and blocking DNS</title>
+      <link>http://jaderdias.github.io/posts/use-private-and-blocking-dns/</link>
+      <pubDate>Thu, 17 Feb 2022 20:00:00 +0100</pubDate>
+      
+      <guid>http://jaderdias.github.io/posts/use-private-and-blocking-dns/</guid>
+      <description>When you&amp;rsquo;re online on your smartphone, laptop, smart TV, or even when you simply have a WiFi lightbulb, there are many ways your Internet Service Provider (ISP), governments, companies and other can track your activities and display ads.
+The first step towards privacy is to stop using your internet provider&amp;rsquo;s DNS service and use an encrypted one. DNS over HTTPS (DoH) and DNS over TLS (DoT) are forms of encryption provided by Google DNS, Cloudflare DNS, among others.</description>
+    </item>
+    
     <item>
       <title>How to download Android apps files and analyse them</title>
-      <link>http://jaderdias.github.io/posts/my-first-post/</link>
+      <link>http://jaderdias.github.io/posts/download-android-apps/</link>
       <pubDate>Tue, 25 Jan 2022 13:42:40 +0100</pubDate>
       
-      <guid>http://jaderdias.github.io/posts/my-first-post/</guid>
+      <guid>http://jaderdias.github.io/posts/download-android-apps/</guid>
       <description>With Apkpure we can download the binaries and resources from any Android application on the Play Store. That&amp;rsquo;s very interesting if you want to re-use some of its assets.
 Suppose you need a list of all the words in English and their translation to Spanish. It could be cumbersome to crawl a translation website or make your app depend on a Translation API for such a task. An alternative is to look for an Android app that has an English to Spanish dictionary and re-use their assets.</description>
     </item>
