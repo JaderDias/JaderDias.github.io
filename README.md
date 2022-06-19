@@ -1,12 +1,17 @@
-Jader Dias projects site
-========================
+# Jader Dias projects site
 
-This project uses [hugo](https://gohugo.io/) to generate the docs folder, published at https://jaderdias.github.io/
+This project uses Hugo to generate the docs folder, published at https://jaderdias.github.io/
+
+## Prerequisites
+
+1. [Hugo](https://gohugo.io/)
+
+## Building steps
 
 If it's the first time building it since you cloned the repository, you need to download the theme submodule
 
 ```
-git submodule update themes/ananke
+git submodule update --init themes/ananke
 ```
 
 Then you can rebuild the docs folder for every content modification
