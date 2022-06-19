@@ -27,8 +27,8 @@ DNS over HTTPS (DoH) and DNS over TLS (DoT) are forms of encryption provided by 
       <pubDate>Tue, 25 Jan 2022 13:42:40 +0100</pubDate>
       
       <guid>http://jaderdias.github.io/posts/download-android-apps/</guid>
-      <description>With Apkpure we can download the binaries and resources from any Android application on the Play Store. That&amp;rsquo;s very interesting if you want to re-use some of its assets.
-Suppose you need a list of all the words in English and their translation to Spanish. It could be cumbersome to crawl a translation website or make your app depend on a Translation API for such a task. An alternative is to look for an Android app that has an English to Spanish dictionary and re-use their assets.</description>
+      <description>With Apkpure we can download the binaries and resources from any Android application on the Play Store. That’s very interesting if you want to re-use some of its assets.
+Suppose you need a list of all the words in English and their translation to Spanish. It could be cumbersome to crawl a translation website or make your app depend on a Translation API for such a task. An alternative is to look for an Android app that has an English to Spanish dictionary and re-use its assets.</description>
     </item>
     
   </channel>
