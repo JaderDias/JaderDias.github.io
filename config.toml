@@ -3,3 +3,4 @@ languageCode = 'en-us'
 title = 'Jader Dias projects'
 theme = "ananke"
 publishDir = "docs"
+googleAnalytics= "UA-110584954-1"
