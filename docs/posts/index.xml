@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Jader Dias projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Feb 2022 20:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jul 2022 20:04:50 +0200</lastBuildDate>
     
 	<atom:link href="http://jaderdias.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Audio signal one-class classification over the years</title>
+      <link>http://jaderdias.github.io/posts/signal-one-class-classification/</link>
+      <pubDate>Sat, 16 Jul 2022 20:04:50 +0200</pubDate>
+      
+      <guid>http://jaderdias.github.io/posts/signal-one-class-classification/</guid>
+      <description>The first time I encountered the one-class classification of audio di was back in 2009. Back then, I wasn&amp;rsquo;t too keen to try machine learning approaches to the problem, so I stuck to what was familiar to me: convolution. This problem was different from voice recognition because humans can produce a wider range of sounds than the ones I was trying to detect, namely sounds produced by certain insect species.</description>
+    </item>
     
     <item>
       <title>Protect your privacy and security with private and blocking DNS</title>
