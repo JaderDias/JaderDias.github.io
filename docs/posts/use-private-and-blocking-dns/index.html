@@ -55,8 +55,8 @@ DNS over HTTPS (DoH) and DNS over TLS (DoT) are forms of encryption provided by 
   <body class="ma0 avenir bg-near-white">
 
     
-   
-  
+
+
 
   <header>
     <div class="bg-black">
@@ -86,14 +86,14 @@ DNS over HTTPS (DoH) and DNS over TLS (DoT) are forms of encryption provided by 
 
     <main class="pb7" role="main">
       
-  
-  <article class="flex-l flex-wrap justify-between mw8 center ph3">
-    <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked">
-          
-        POSTS
-      </aside>
+
+<article class="flex-l flex-wrap justify-between mw8 center ph3">
+  <header class="mt4 w-100">
+    <aside class="instapaper_ignoref b helvetica tracked">
       
+      POSTS
+    </aside>
+    
 
 
 
@@ -109,17 +109,18 @@ DNS over HTTPS (DoH) and DNS over TLS (DoT) are forms of encryption provided by 
   </div>
 
 
-      <h1 class="f1 athelas mt3 mb1">Protect your privacy and security with private and blocking DNS</h1>
-      
-      
-      
-      <time class="f6 mv4 dib tracked" datetime="2022-02-17T20:00:00+01:00">February 17, 2022</time>
-      
+    <h1 class="f1 athelas mt3 mb1">Protect your privacy and security with private and blocking DNS</h1>
+    
+    
+    
+    <time class="f6 mv4 dib tracked" datetime="2022-02-17T20:00:00+01:00" >February 17, 2022</time>
+    
 
-      
-      
-    </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>When you’re online on your smartphone, laptop, smart TV, or even when you simply have a WiFi lightbulb, there are many ways your Internet Service Provider (ISP), governments, and companies can track your activities or display ads. The first step towards privacy is to stop using your internet provider’s DNS service and use an encrypted one.</p>
+    
+    
+  </header>
+  <div class="nested-copy-line-height lh-copy serif f4 nested-links
+    nested-img mid-gray pr4-l w-two-thirds-l"><p>When you’re online on your smartphone, laptop, smart TV, or even when you simply have a WiFi lightbulb, there are many ways your Internet Service Provider (ISP), governments, and companies can track your activities or display ads. The first step towards privacy is to stop using your internet provider’s DNS service and use an encrypted one.</p>
 <p>DNS over HTTPS (DoH) and DNS over TLS (DoT) are forms of encryption provided by Google DNS, and Cloudflare DNS, among others. This prevents your ISP and possibly other men-in-the-middle (MITM) from sniffing into your name resolution request. The main difference between DoH and DoT is that the former looks like normal HTTPS traffic, and it’s harder for government and ISPs to prevent you from using it, if you’re in a very strict environment. The latter, DoT, is theoretically faster. Android allows you to configure a Private DNS easily, while on iOS you need to load a special file, called profile, to be able to use it. While it can also be used in laptops and desktops, the only way to use it in TVs, lamps, switches, and cameras is to have a prosumer router or a PiHole.</p>
 <p>A PiHole will help you more than just give you privacy. The routers given to us by our ISPs are terrible at performing all of the multiple functions they have: modem, router, switch, firewall, and WiFi access point. Having a small form computer, like a Raspberry Pi, in your network allows you to complement the capabilities of your home router. Installing PiHole on a Raspberry Pi allows you to give not only private DNS service to all devices in your network, but also allows you to block ads, tracking, malware, adult content, and phishing.</p>
 <p>But what about when you step out of the house? You could expose your home’s PiHole via Dynamic DNS (DDNS), or get a fixed IP from your ISP, but there are similar services that you could use both inside and outside your home network, namely AdGuard DNS and NextDNS. They would still need DDNS or a PiHole to work with smart devices that aren’t as configurable as a Smartphone, but they should be more available than your home network.</p>
@@ -129,22 +130,27 @@ DNS over HTTPS (DoH) and DNS over TLS (DoT) are forms of encryption provided by 
   
 </ul>
 <div class="mt6 instapaper_ignoref">
-      <script src="https://utteranc.es/client.js" repo="JaderDias/jaderdias.github.io" issue-term="pathname"
-        label="Utterances" theme="github-light" crossorigin="anonymous" async>
-      </script>
-      
-      
-      </div>
-    </div>
+      <form method="POST"
+        action="https://staticman-jaderdias.herokuapp.com/v3/entry/github/JaderDias/jaderdias.github.io/master/comments">
+        <input name="options[redirect]" type="hidden" value="https://jaderdias.github.io/">
+        <input name="options[slug]" type="hidden" value="Posts">
+        <label><input name="fields[name]" type="text">Name</label>
+        <label><input name="fields[email]" type="email">E-mail</label>
+        <label><textarea name="fields[message]"></textarea>Message</label>
 
-    <aside class="w-30-l mt6-l">
+        <button type="submit">Go!</button>
+      </form>
+    </div>
+  </div>
+
+  <aside class="w-30-l mt6-l">
 
 
 
 
 </aside>
 
-  </article>
+</article>
 
     </main>
     <footer class=" bg-black bottom-0 w-100 pa3" role="contentinfo">
