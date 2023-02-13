@@ -1,3 +1,4 @@
+[![GH Pages](https://github.com/JaderDias/jaderdias.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/JaderDias/jaderdias.github.io/actions/workflows/pages/pages-build-deployment)
 # Jader Dias projects site
 
 This project uses Hugo to generate the docs folder, published at https://jaderdias.github.io/
